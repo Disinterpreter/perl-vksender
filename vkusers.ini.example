@@ -1,0 +1,9 @@
+[Auth]
+glebtoken=<TOKEN>
+commtoken=<TOKEN>
+
+[Hotchats]
+durov=1
+maindialog=2000000001
+
+
